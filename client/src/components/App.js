@@ -9,9 +9,6 @@ const Dashboard = () => {
   return <h2>Dashboard</h2>;
 };
 
-const Surveys = () => {
-  return <h2>surveys</h2>;
-};
 const SurveyNew = () => {
   return <h2>surveyNew</h2>;
 };
